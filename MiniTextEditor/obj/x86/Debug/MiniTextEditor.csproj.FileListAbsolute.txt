@@ -1,0 +1,8 @@
+C:\Users\Liam\Desktop\Software Development\MiniTextEditor\MiniTextEditor\bin\Debug\MiniTextEditor.exe
+C:\Users\Liam\Desktop\Software Development\MiniTextEditor\MiniTextEditor\bin\Debug\MiniTextEditor.pdb
+C:\Users\Liam\Desktop\Software Development\MiniTextEditor\MiniTextEditor\obj\x86\Debug\MiniTextEditor.MiniTextEditor.resources
+C:\Users\Liam\Desktop\Software Development\MiniTextEditor\MiniTextEditor\obj\x86\Debug\MiniTextEditor.Properties.Resources.resources
+C:\Users\Liam\Desktop\Software Development\MiniTextEditor\MiniTextEditor\obj\x86\Debug\MiniTextEditor.csproj.GenerateResource.Cache
+C:\Users\Liam\Desktop\Software Development\MiniTextEditor\MiniTextEditor\obj\x86\Debug\MiniTextEditor.exe
+C:\Users\Liam\Desktop\Software Development\MiniTextEditor\MiniTextEditor\obj\x86\Debug\MiniTextEditor.pdb
+C:\Users\Liam\Desktop\Software Development\MiniTextEditor\MiniTextEditor\obj\x86\Debug\MiniTextEditor.csprojResolveAssemblyReference.cache
