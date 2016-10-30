@@ -49,12 +49,15 @@ namespace MiniTextEditor
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            SaveFileDialog saveFileDialog = new SaveFileDialog();
-            saveFileDialog.ShowDialog();
+            SaveFileDialog saveFileDialog = new SaveFileDialog()
+            {
+                DefaultExt = ".txt",
+                Filter = "Text Files|*.txt|XML Files|*.xml"
+            };
+
             if (saveFileDialog.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
-                string name = saveFileDialog.FileName + ".txt"; // Making sure the file extension is '.txt'
-                File.WriteAllText(name, rtxAll.Text); //Write all text in the texbox into the file.
+                File.WriteAllText(saveFileDialog.FileName, rtxAll.Text); //Write all text in the texbox into the file.
                 bolSaved = true;
             }
         }
